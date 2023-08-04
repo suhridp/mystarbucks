@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    border: 1px solid black;
+    margin: 0;
+}
+.sec{
+    height: 22em;
+    width: 98.25vw;
+    margin-bottom: 1.5rem;
+}
+.left{
+    width:50vw;
+    background-color: blue;
+}
